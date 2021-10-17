@@ -1,6 +1,6 @@
 ### 1.
 
-The triple-quote comments are describing the methods and represent multi-line
+The triple-quote comments are describing/documenting the methods and represent multi-line
 commentary. 
 
 ### 2.
